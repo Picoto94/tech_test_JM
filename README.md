@@ -4,7 +4,6 @@ This project was developed using the following technologies:
 
 ASP.NET Core (v8.0)
 C# (v12)
-Entity Framework Core (vX.X.X)
 xUnit.NET (v2.7.0)
 Moq (v4.20.70)
 Microsoft.NET.Test.Sdk(v17.10.0)
